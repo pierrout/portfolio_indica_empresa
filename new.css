@@ -1,0 +1,22 @@
+
+header, .bg-light{
+    background-image: linear-gradient(to right, #ff8c00, #fa8072);
+}
+
+/*header,.bg-light ,.mt-1 {
+  margin-top: 100px;
+}*/
+
+/*espaçamento*/
+h1{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.col-sm-6{
+    margin-top: 100px;
+}
+
+.col-sm-4{
+    margin-top: 100px;
+}
+
